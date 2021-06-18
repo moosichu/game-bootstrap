@@ -1,0 +1,12 @@
+Revisions used to build this SDK on Thu Feb 25 22:35:24 2021
+1d99b835ec3cd5a7fb2f2a2dd9a615ee2d1f0101 : https://github.com/KhronosGroup/Vulkan-Headers.git
+c5678a03db383fd0dc5bfb8e9a383043bdbcb57b : https://github.com/KhronosGroup/Vulkan-Loader.git
+4fdcd0eebfed3505732720fc6fd98293e847d697 : https://github.com/KhronosGroup/Vulkan-ValidationLayers.git
+88ea55de928a08ba5c5f65a93d1e7c8f666fc43f : https://github.com/KhronosGroup/Vulkan-Tools.git
+a98d86bd2e80e33e12a23cc71320ebb20e12f50a : https://github.com/LunarG/VulkanTools.git
+40f5cbba901747100bcac542cb29e0c716cb5ab5 : https://www.github.com/KhronosGroup/MoltenVK.git
+e56beaee736863ce48455955158f1839e6e4c1a1 : https://github.com/KhronosGroup/Glslang.git
+c79edd260c2b503f0eca57310057b4a100999cc5 : https://github.com/KhronosGroup/SPIRV-Tools
+75b30a659c8a4979104986652c54cc421fc51129 : https://github.com/KhronosGroup/SPIRV-Headers
+621884d70917038caf7509f7b1b3c143807ff43f : https://github.com/KhronosGroup/SPIRV-Cross.git
+a449ecbb82d0a26853c76485dc73f60ca8d7e05d : https://github.com/google/shaderc.git
